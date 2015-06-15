@@ -1,0 +1,6 @@
+_site/
+*.db
+*.ini
+*.inf
+*.desktop
+*.lnk
